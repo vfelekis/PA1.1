@@ -6,7 +6,7 @@ This page will show you how to make commits to the remote repository on GitHub d
 
 To edit this file via the web browser you need to locate it on GitHub on your personal repository you created via the GitHub classroom link. First click on the file in the GitHub repository, then the pencil icon. Replace the comment below with your own content
 
-% test test test
+This file was edited directly on GitHub by Vasilis.
 
 ## Task 2 Commit your change
 
